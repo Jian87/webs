@@ -1,0 +1,16 @@
+{
+  "name": "webs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "delopy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://jian87.github.io/webs",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
